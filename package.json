@@ -1,0 +1,12 @@
+{
+  "name": "spotofcolour-alloy-relay",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node relay.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.0",
+    "express": "^4.19.0"
+  }
+}
